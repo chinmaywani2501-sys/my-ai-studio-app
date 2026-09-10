@@ -1,0 +1,6 @@
+{
+  "name": "Legal Metrology Compliance Scanner",
+  "description": "AI & Offline OCR system to scan packaged commodity labels and verify compliance with the Legal Metrology (Packaged Commodities) Rules, 2011.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
